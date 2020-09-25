@@ -2,6 +2,46 @@
 CHANGELOG
 =========
 
+1.15.5
+======
+
+* api-change:``transcribe``: [``botocore``] Update transcribe client to latest version
+* api-change:``textract``: [``botocore``] Update textract client to latest version
+* api-change:``amplify``: [``botocore``] Update amplify client to latest version
+* api-change:``eks``: [``botocore``] Update eks client to latest version
+* api-change:``savingsplans``: [``botocore``] Update savingsplans client to latest version
+* api-change:``synthetics``: [``botocore``] Update synthetics client to latest version
+
+
+1.15.4
+======
+
+* api-change:``translate``: [``botocore``] Update translate client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+* api-change:``backup``: [``botocore``] Update backup client to latest version
+
+
+1.15.3
+======
+
+* api-change:``comprehend``: [``botocore``] Update comprehend client to latest version
+* api-change:``dynamodbstreams``: [``botocore``] Update dynamodbstreams client to latest version
+* api-change:``workmail``: [``botocore``] Update workmail client to latest version
+* api-change:``lex-models``: [``botocore``] Update lex-models client to latest version
+
+
+1.15.2
+======
+
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``resourcegroupstaggingapi``: [``botocore``] Update resourcegroupstaggingapi client to latest version
+* api-change:``iotsitewise``: [``botocore``] Update iotsitewise client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``resource-groups``: [``botocore``] Update resource-groups client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+
+
 1.15.1
 ======
 
