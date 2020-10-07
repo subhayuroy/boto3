@@ -2,6 +2,25 @@
 CHANGELOG
 =========
 
+1.15.13
+=======
+
+* api-change:``dms``: [``botocore``] Update dms client to latest version
+* api-change:``kinesisanalyticsv2``: [``botocore``] Update kinesisanalyticsv2 client to latest version
+* api-change:``marketplace-catalog``: [``botocore``] Update marketplace-catalog client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
+1.15.12
+=======
+
+* api-change:``dynamodbstreams``: [``botocore``] Update dynamodbstreams client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+
+
 1.15.11
 =======
 
