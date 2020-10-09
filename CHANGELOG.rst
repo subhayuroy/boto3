@@ -2,6 +2,27 @@
 CHANGELOG
 =========
 
+1.15.15
+=======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``sns``: [``botocore``] Update sns client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``rekognition``: [``botocore``] Update rekognition client to latest version
+
+
+1.15.14
+=======
+
+* api-change:``mediapackage``: [``botocore``] Update mediapackage client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``compute-optimizer``: [``botocore``] Update compute-optimizer client to latest version
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+
+
 1.15.13
 =======
 
