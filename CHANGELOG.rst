@@ -2,6 +2,25 @@
 CHANGELOG
 =========
 
+1.16.2
+======
+
+* api-change:``organizations``: [``botocore``] Update organizations client to latest version
+* api-change:``globalaccelerator``: [``botocore``] Update globalaccelerator client to latest version
+* api-change:``kendra``: [``botocore``] Update kendra client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``cloudfront``: [``botocore``] Update cloudfront client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+
+
+1.16.1
+======
+
+* api-change:``elasticbeanstalk``: [``botocore``] Update elasticbeanstalk client to latest version
+* api-change:``appsync``: [``botocore``] Update appsync client to latest version
+* api-change:``batch``: [``botocore``] Update batch client to latest version
+
+
 1.16.0
 ======
 
