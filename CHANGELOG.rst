@@ -2,6 +2,30 @@
 CHANGELOG
 =========
 
+1.16.9
+======
+
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``dms``: [``botocore``] Update dms client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``imagebuilder``: [``botocore``] Update imagebuilder client to latest version
+* api-change:``braket``: [``botocore``] Update braket client to latest version
+* api-change:``sns``: [``botocore``] Update sns client to latest version
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+
+
+1.16.8
+======
+
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+* api-change:``codeartifact``: [``botocore``] Update codeartifact client to latest version
+* api-change:``marketplacecommerceanalytics``: [``botocore``] Update marketplacecommerceanalytics client to latest version
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+* api-change:``sesv2``: [``botocore``] Update sesv2 client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+
+
 1.16.7
 ======
 
