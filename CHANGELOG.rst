@@ -2,6 +2,126 @@
 CHANGELOG
 =========
 
+1.16.9
+======
+
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``dms``: [``botocore``] Update dms client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``imagebuilder``: [``botocore``] Update imagebuilder client to latest version
+* api-change:``braket``: [``botocore``] Update braket client to latest version
+* api-change:``sns``: [``botocore``] Update sns client to latest version
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+
+
+1.16.8
+======
+
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+* api-change:``codeartifact``: [``botocore``] Update codeartifact client to latest version
+* api-change:``marketplacecommerceanalytics``: [``botocore``] Update marketplacecommerceanalytics client to latest version
+* api-change:``apigateway``: [``botocore``] Update apigateway client to latest version
+* api-change:``sesv2``: [``botocore``] Update sesv2 client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+
+
+1.16.7
+======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``workmail``: [``botocore``] Update workmail client to latest version
+
+
+1.16.6
+======
+
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+
+
+1.16.5
+======
+
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``neptune``: [``botocore``] Update neptune client to latest version
+* api-change:``kendra``: [``botocore``] Update kendra client to latest version
+
+
+1.16.4
+======
+
+* api-change:``mediatailor``: [``botocore``] Update mediatailor client to latest version
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+
+
+1.16.3
+======
+
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+* api-change:``sns``: [``botocore``] Update sns client to latest version
+* api-change:``accessanalyzer``: [``botocore``] Update accessanalyzer client to latest version
+* api-change:``appflow``: [``botocore``] Update appflow client to latest version
+
+
+1.16.2
+======
+
+* api-change:``organizations``: [``botocore``] Update organizations client to latest version
+* api-change:``globalaccelerator``: [``botocore``] Update globalaccelerator client to latest version
+* api-change:``kendra``: [``botocore``] Update kendra client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``cloudfront``: [``botocore``] Update cloudfront client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+
+
+1.16.1
+======
+
+* api-change:``elasticbeanstalk``: [``botocore``] Update elasticbeanstalk client to latest version
+* api-change:``appsync``: [``botocore``] Update appsync client to latest version
+* api-change:``batch``: [``botocore``] Update batch client to latest version
+
+
+1.16.0
+======
+
+* api-change:``backup``: [``botocore``] Update backup client to latest version
+* api-change:``docdb``: [``botocore``] Update docdb client to latest version
+* api-change:``cloudfront``: [``botocore``] Update cloudfront client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+* feature:imds: [``botocore``] Updated InstanceMetadataFetcher to use custom ipv6 uri as endpoint if envvar or config set
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+
+
+1.15.18
+=======
+
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``organizations``: [``botocore``] Update organizations client to latest version
+
+
+1.15.17
+=======
+
+* api-change:``transfer``: [``botocore``] Update transfer client to latest version
+* api-change:``xray``: [``botocore``] Update xray client to latest version
+* api-change:``dms``: [``botocore``] Update dms client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``groundstation``: [``botocore``] Update groundstation client to latest version
+* api-change:``rekognition``: [``botocore``] Update rekognition client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``workspaces``: [``botocore``] Update workspaces client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``budgets``: [``botocore``] Update budgets client to latest version
+* api-change:``accessanalyzer``: [``botocore``] Update accessanalyzer client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``workmail``: [``botocore``] Update workmail client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+
+
 1.15.16
 =======
 
