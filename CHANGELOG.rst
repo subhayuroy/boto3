@@ -2,6 +2,34 @@
 CHANGELOG
 =========
 
+1.16.12
+=======
+
+* api-change:``frauddetector``: [``botocore``] Update frauddetector client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``kendra``: [``botocore``] Update kendra client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``appmesh``: [``botocore``] Update appmesh client to latest version
+
+
+1.16.11
+=======
+
+* api-change:``cloudwatch``: [``botocore``] Update cloudwatch client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``xray``: [``botocore``] Update xray client to latest version
+* api-change:``mq``: [``botocore``] Update mq client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``meteringmarketplace``: [``botocore``] Update meteringmarketplace client to latest version
+* api-change:``autoscaling``: [``botocore``] Update autoscaling client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+
+
 1.16.10
 =======
 
