@@ -2,6 +2,105 @@
 CHANGELOG
 =========
 
+1.16.18
+=======
+
+* api-change:``textract``: [``botocore``] Update textract client to latest version
+* api-change:``shield``: [``botocore``] Update shield client to latest version
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+
+
+1.16.17
+=======
+
+* api-change:``personalize-runtime``: [``botocore``] Update personalize-runtime client to latest version
+* api-change:``servicecatalog-appregistry``: [``botocore``] Update servicecatalog-appregistry client to latest version
+* api-change:``lex-models``: [``botocore``] Update lex-models client to latest version
+* api-change:``polly``: [``botocore``] Update polly client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``robomaker``: [``botocore``] Update robomaker client to latest version
+* api-change:``lightsail``: [``botocore``] Update lightsail client to latest version
+
+
+1.16.16
+=======
+
+* api-change:``mediaconvert``: [``botocore``] Update mediaconvert client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+* api-change:``databrew``: [``botocore``] Update databrew client to latest version
+* api-change:``forecast``: [``botocore``] Update forecast client to latest version
+* api-change:``amplify``: [``botocore``] Update amplify client to latest version
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+
+
+1.16.15
+=======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``elbv2``: [``botocore``] Update elbv2 client to latest version
+* api-change:``autoscaling``: [``botocore``] Update autoscaling client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+
+
+1.16.14
+=======
+
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``fsx``: [``botocore``] Update fsx client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``iotanalytics``: [``botocore``] Update iotanalytics client to latest version
+* api-change:``s3``: [``botocore``] Update s3 client to latest version
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+* api-change:``datasync``: [``botocore``] Update datasync client to latest version
+
+
+1.16.13
+=======
+
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``iotsitewise``: [``botocore``] Update iotsitewise client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``dlm``: [``botocore``] Update dlm client to latest version
+
+
+1.16.12
+=======
+
+* api-change:``frauddetector``: [``botocore``] Update frauddetector client to latest version
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``kendra``: [``botocore``] Update kendra client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``dynamodb``: [``botocore``] Update dynamodb client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``appmesh``: [``botocore``] Update appmesh client to latest version
+
+
+1.16.11
+=======
+
+* api-change:``cloudwatch``: [``botocore``] Update cloudwatch client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``xray``: [``botocore``] Update xray client to latest version
+* api-change:``mq``: [``botocore``] Update mq client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``meteringmarketplace``: [``botocore``] Update meteringmarketplace client to latest version
+* api-change:``autoscaling``: [``botocore``] Update autoscaling client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+
+
+1.16.10
+=======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
 1.16.9
 ======
 
