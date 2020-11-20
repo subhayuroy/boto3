@@ -2,6 +2,35 @@
 CHANGELOG
 =========
 
+1.16.22
+=======
+
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``lex-runtime``: [``botocore``] Update lex-runtime client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``lex-models``: [``botocore``] Update lex-models client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``autoscaling``: [``botocore``] Update autoscaling client to latest version
+* api-change:``ds``: [``botocore``] Update ds client to latest version
+* api-change:``kinesisanalyticsv2``: [``botocore``] Update kinesisanalyticsv2 client to latest version
+* api-change:``redshift``: [``botocore``] Update redshift client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+
+
+1.16.21
+=======
+
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+* api-change:``cloudformation``: [``botocore``] Update cloudformation client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* bugfix:Retry: [``botocore``] Fix bug where retries were attempted on any response with an "Error" key.
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``s3control``: [``botocore``] Update s3control client to latest version
+* api-change:``backup``: [``botocore``] Update backup client to latest version
+* api-change:``outposts``: [``botocore``] Update outposts client to latest version
+
+
 1.16.20
 =======
 
