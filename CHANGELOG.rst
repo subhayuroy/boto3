@@ -2,6 +2,28 @@
 CHANGELOG
 =========
 
+1.16.37
+=======
+
+* api-change:``iotwireless``: [``botocore``] Update iotwireless client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``greengrassv2``: [``botocore``] Update greengrassv2 client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``iotdeviceadvisor``: [``botocore``] Update iotdeviceadvisor client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``iotanalytics``: [``botocore``] Update iotanalytics client to latest version
+* api-change:``amp``: [``botocore``] Update amp client to latest version
+* api-change:``iotfleethub``: [``botocore``] Update iotfleethub client to latest version
+
+
+1.16.36
+=======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``globalaccelerator``: [``botocore``] Update globalaccelerator client to latest version
+* api-change:``devops-guru``: [``botocore``] Update devops-guru client to latest version
+
+
 1.16.35
 =======
 
