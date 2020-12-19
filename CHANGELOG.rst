@@ -2,6 +2,39 @@
 CHANGELOG
 =========
 
+1.16.40
+=======
+
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* bugfix:SSO: [``botocore``] Fixed timestamp format for SSO credential expirations
+* api-change:``personalize-runtime``: [``botocore``] Update personalize-runtime client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
+1.16.39
+=======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+* api-change:``dlm``: [``botocore``] Update dlm client to latest version
+* api-change:``kms``: [``botocore``] Update kms client to latest version
+* api-change:``route53resolver``: [``botocore``] Update route53resolver client to latest version
+* api-change:``sqs``: [``botocore``] Update sqs client to latest version
+* api-change:``config``: [``botocore``] Update config client to latest version
+* api-change:``imagebuilder``: [``botocore``] Update imagebuilder client to latest version
+* api-change:``route53``: [``botocore``] Update route53 client to latest version
+
+
+1.16.38
+=======
+
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``amp``: [``botocore``] Update amp client to latest version
+* api-change:``location``: [``botocore``] Update location client to latest version
+* api-change:``wellarchitected``: [``botocore``] Update wellarchitected client to latest version
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+
+
 1.16.37
 =======
 
