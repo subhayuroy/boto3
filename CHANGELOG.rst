@@ -2,6 +2,26 @@
 CHANGELOG
 =========
 
+1.16.47
+=======
+
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+
+
+1.16.46
+=======
+
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+
+
+1.16.45
+=======
+
+* api-change:``acm-pca``: [``botocore``] Update acm-pca client to latest version
+* api-change:``apigatewayv2``: [``botocore``] Update apigatewayv2 client to latest version
+
+
 1.16.44
 =======
 
