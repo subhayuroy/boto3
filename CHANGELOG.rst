@@ -2,6 +2,39 @@
 CHANGELOG
 =========
 
+1.16.55
+=======
+
+* api-change:``pinpoint``: [``botocore``] Update pinpoint client to latest version
+* api-change:``cognito-identity``: [``botocore``] Update cognito-identity client to latest version
+* api-change:``s3control``: [``botocore``] Update s3control client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+
+
+1.16.54
+=======
+
+* api-change:``frauddetector``: [``botocore``] Update frauddetector client to latest version
+* api-change:``personalize``: [``botocore``] Update personalize client to latest version
+
+
+1.16.53
+=======
+
+* api-change:``appstream``: [``botocore``] Update appstream client to latest version
+* api-change:``auditmanager``: [``botocore``] Update auditmanager client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+* api-change:``lightsail``: [``botocore``] Update lightsail client to latest version
+
+
+1.16.52
+=======
+
+* api-change:``rds``: [``botocore``] Update rds client to latest version
+* api-change:``kms``: [``botocore``] Update kms client to latest version
+
+
 1.16.51
 =======
 
