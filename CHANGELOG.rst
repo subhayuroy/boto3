@@ -2,6 +2,37 @@
 CHANGELOG
 =========
 
+1.16.63
+=======
+
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``connect``: [``botocore``] Update connect client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+
+
+1.16.62
+=======
+
+* api-change:``wellarchitected``: [``botocore``] Update wellarchitected client to latest version
+* api-change:``managedblockchain``: [``botocore``] Update managedblockchain client to latest version
+* api-change:``cloudwatch``: [``botocore``] Update cloudwatch client to latest version
+* api-change:``databrew``: [``botocore``] Update databrew client to latest version
+* bugfix:Validator: [``botocore``] Fix showing incorrect max-value in error message for range and length value validation
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+* api-change:``robomaker``: [``botocore``] Update robomaker client to latest version
+
+
+1.16.61
+=======
+
+* api-change:``elasticache``: [``botocore``] Update elasticache client to latest version
+* api-change:``customer-profiles``: [``botocore``] Update customer-profiles client to latest version
+* api-change:``sesv2``: [``botocore``] Update sesv2 client to latest version
+* api-change:``accessanalyzer``: [``botocore``] Update accessanalyzer client to latest version
+* api-change:``lightsail``: [``botocore``] Update lightsail client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+
+
 1.16.60
 =======
 
