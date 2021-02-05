@@ -2,6 +2,50 @@
 CHANGELOG
 =========
 
+1.17.2
+======
+
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+* api-change:``appflow``: [``botocore``] Update appflow client to latest version
+* api-change:``emr-containers``: [``botocore``] Update emr-containers client to latest version
+* api-change:``dlm``: [``botocore``] Update dlm client to latest version
+* api-change:``athena``: [``botocore``] Update athena client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
+1.17.1
+======
+
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``ce``: [``botocore``] Update ce client to latest version
+* api-change:``databrew``: [``botocore``] Update databrew client to latest version
+* api-change:``securityhub``: [``botocore``] Update securityhub client to latest version
+* api-change:``workmail``: [``botocore``] Update workmail client to latest version
+* api-change:``auditmanager``: [``botocore``] Update auditmanager client to latest version
+* api-change:``compute-optimizer``: [``botocore``] Update compute-optimizer client to latest version
+* api-change:``iotsitewise``: [``botocore``] Update iotsitewise client to latest version
+
+
+1.17.0
+======
+
+* api-change:``appmesh``: [``botocore``] Update appmesh client to latest version
+* feature:Python: Dropped support for Python 3.4 and 3.5
+* api-change:``application-autoscaling``: [``botocore``] Update application-autoscaling client to latest version
+* api-change:``lookoutvision``: [``botocore``] Update lookoutvision client to latest version
+* api-change:``organizations``: [``botocore``] Update organizations client to latest version
+* feature:Python: [``botocore``] Dropped support for Python 3.4 and 3.5
+* api-change:``s3control``: [``botocore``] Update s3control client to latest version
+* api-change:``rds-data``: [``botocore``] Update rds-data client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``route53``: [``botocore``] Update route53 client to latest version
+* api-change:``location``: [``botocore``] Update location client to latest version
+* enhancement:s3: [``botocore``] Amazon S3 now supports AWS PrivateLink, providing direct access to S3 via a private endpoint within your virtual private network.
+* api-change:``iotwireless``: [``botocore``] Update iotwireless client to latest version
+
+
 1.16.63
 =======
 
