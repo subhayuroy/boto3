@@ -2,6 +2,46 @@
 CHANGELOG
 =========
 
+1.17.16
+=======
+
+* api-change:``databrew``: [``botocore``] Update databrew client to latest version
+* api-change:``detective``: [``botocore``] Update detective client to latest version
+* api-change:``lightsail``: [``botocore``] Update lightsail client to latest version
+* api-change:``imagebuilder``: [``botocore``] Update imagebuilder client to latest version
+* api-change:``transfer``: [``botocore``] Update transfer client to latest version
+
+
+1.17.15
+=======
+
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``mediapackage-vod``: [``botocore``] Update mediapackage-vod client to latest version
+* api-change:``appflow``: [``botocore``] Update appflow client to latest version
+* api-change:``ecr-public``: [``botocore``] Update ecr-public client to latest version
+* api-change:``compute-optimizer``: [``botocore``] Update compute-optimizer client to latest version
+
+
+1.17.14
+=======
+
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``redshift-data``: [``botocore``] Update redshift-data client to latest version
+* api-change:``s3control``: [``botocore``] Update s3control client to latest version
+* api-change:``autoscaling``: [``botocore``] Update autoscaling client to latest version
+* api-change:``pinpoint``: [``botocore``] Update pinpoint client to latest version
+* api-change:``quicksight``: [``botocore``] Update quicksight client to latest version
+* api-change:``iotevents``: [``botocore``] Update iotevents client to latest version
+* api-change:``connect``: [``botocore``] Update connect client to latest version
+
+
+1.17.13
+=======
+
+* api-change:``sagemaker-runtime``: [``botocore``] Update sagemaker-runtime client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+
+
 1.17.12
 =======
 
