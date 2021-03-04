@@ -2,6 +2,40 @@
 CHANGELOG
 =========
 
+1.17.20
+=======
+
+* api-change:``forecast``: [``botocore``] Update forecast client to latest version
+* api-change:``secretsmanager``: [``botocore``] Update secretsmanager client to latest version
+* api-change:``macie2``: [``botocore``] Update macie2 client to latest version
+* api-change:``codebuild``: [``botocore``] Update codebuild client to latest version
+* api-change:``es``: [``botocore``] Update es client to latest version
+* api-change:``acm``: [``botocore``] Update acm client to latest version
+* api-change:``wellarchitected``: [``botocore``] Update wellarchitected client to latest version
+
+
+1.17.19
+=======
+
+* api-change:``iotwireless``: [``botocore``] Update iotwireless client to latest version
+* api-change:``directconnect``: [``botocore``] Update directconnect client to latest version
+* bugfix:S3: [``botocore``] Fix an issue with XML newline normalization that could result in the DeleteObjects operation incorrectly deleting the wrong keys.
+* api-change:``managedblockchain``: [``botocore``] Update managedblockchain client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``compute-optimizer``: [``botocore``] Update compute-optimizer client to latest version
+* api-change:``datasync``: [``botocore``] Update datasync client to latest version
+
+
+1.17.18
+=======
+
+* enhancement:DynamoDB: Add a `__bytes__` method to the `Binary` DynamoDB type.
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``codepipeline``: [``botocore``] Update codepipeline client to latest version
+* api-change:``eks``: [``botocore``] Update eks client to latest version
+
+
 1.17.17
 =======
 
