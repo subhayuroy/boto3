@@ -2,6 +2,28 @@
 CHANGELOG
 =========
 
+1.17.22
+=======
+
+* api-change:``license-manager``: [``botocore``] Update license-manager client to latest version
+* api-change:``network-firewall``: [``botocore``] Update network-firewall client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``athena``: [``botocore``] Update athena client to latest version
+* api-change:``medialive``: [``botocore``] Update medialive client to latest version
+* api-change:``shield``: [``botocore``] Update shield client to latest version
+* api-change:``codepipeline``: [``botocore``] Update codepipeline client to latest version
+* api-change:``appflow``: [``botocore``] Update appflow client to latest version
+
+
+1.17.21
+=======
+
+* api-change:``servicediscovery``: [``botocore``] Update servicediscovery client to latest version
+* api-change:``events``: [``botocore``] Update events client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``mwaa``: [``botocore``] Update mwaa client to latest version
+
+
 1.17.20
 =======
 
